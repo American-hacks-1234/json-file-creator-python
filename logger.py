@@ -1,5 +1,5 @@
 import time
-import json
+
 
 # Config files
 TAMPER_LOG = "My.log"
